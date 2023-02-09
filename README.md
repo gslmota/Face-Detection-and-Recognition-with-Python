@@ -54,26 +54,26 @@ pip install -r requirements.txt
 
  * **Face Detection and Landmarks**:
 
-![!Face Detection and Landmarks](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/d1.png)
+![!Face Detection and Landmarks](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/d1.png)
 
 *Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
 
  
  * **Face Recognition**:
  
- ![!Face Recognition](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/d2.png)
+ ![!Face Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/d2.png)
 
  *Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
 
  * **Celebrity Recognition**:
  
- ![!Celebrity Recognition](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/ae1.png)
- ![!Celebrity Recognition](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/ae2.png)
+ ![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/ae1.png)
+ ![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/ae2.png)
 
 
  * **Video Celebrity Recognition**:
  
- ![!Video Celebrity Recognition](![!Celebrity Recognition](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/vid.gif))
+ ![!Video Celebrity Recognition](![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/vid.gif))
 
 
 
