@@ -3,7 +3,7 @@ This repository contains codes related to face detection using Haarscared, HOG, 
 Projetcs video webcam.
 
 ![!Yolo Object Detection](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/cp.png)
-*Original image: [Open Imagens Dataset](https://storage.googleapis.com/openimages/web/index.html)*
+*Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
 
 # Contents
 ``` shell
