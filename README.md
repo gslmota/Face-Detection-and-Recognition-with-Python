@@ -3,6 +3,7 @@ This repository contains codes related to face detection using Haarscared, HOG, 
 Projetcs video webcam.
 
 ![!Yolo Object Detection](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/cp.png)
+
 *Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
 
 # Contents
@@ -53,13 +54,27 @@ pip install -r requirements.txt
 
  * **Face Detection and Landmarks**:
 
-![!Yolo Object Detection](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/img/resultado_cachorro.jpg)
-*Original image: [Open Imagens Dataset](https://storage.googleapis.com/openimages/web/index.html)*
+![!Face Detection and Landmarks](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/d1.png)
+
+*Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
 
  
- * **Video Detection**:
+ * **Face Recognition**:
  
- ![!YOLO Darknet  detection video](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/img/roadusa3_1.gif)
+ ![!Face Recognition](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/d2.png)
+
+ *Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
+
+ * **Celebrity Recognition**:
+ 
+ ![!Celebrity Recognition](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/ae1.png)
+ ![!Celebrity Recognition](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/ae2.png)
+
+
+ * **Video Celebrity Recognition**:
+ 
+ ![!Video Celebrity Recognition](![!Celebrity Recognition](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/images/vid.gif))
+
 
 
 # References:
