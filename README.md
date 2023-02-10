@@ -52,20 +52,20 @@ pip install -r requirements.txt
 
 # Results
 
-* **Face Detection and Landmarks**: 
+### **Face Detection and Landmarks**: 
 * **Face Detection and Landmarks** using Dlib and deep learning.
 ![!Face Detection and Landmarks](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/d1.png)
 
 *Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
 
  
-* **Face Recognition**:
+### **Face Recognition**:
 * **Face Recognition** using Dlib and deep learning.
 ![!Face Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/d2.png)
 
 *Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
 
-* **Celebrity Recognition**:
+### **Celebrity Recognition**:
 * **Celebrity Recognition** using lib face_recognition.
 ![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/ae1.png)
 
@@ -76,11 +76,11 @@ pip install -r requirements.txt
 ![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/wol2.png)
 
 
-* **Video Celebrity Recognition**:
+### **Video Celebrity Recognition**:
 * **Video Celebrity Recognition** using lib face_recognition.
 ![!Video Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/vid.gif))
 
-* **Drawing of facial elements**:
+### **Drawing of facial elements**:
 * **Drawing of facial elements** using lib face_recognition.
 ![!Drawing of facial elements](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/fl.png))
 
