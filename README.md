@@ -82,12 +82,12 @@ pip install -r requirements.txt
 ### **Video Celebrity Recognition**:
 * **Video Celebrity Recognition** using lib face_recognition.
 
-![!Video Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/vid.gif))
+![!Video Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/vid.gif)
 
 ### **Drawing of facial elements**:
 * **Drawing of facial elements** using lib face_recognition.
 
-![!Drawing of facial elements](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/fl.png))
+![!Drawing of facial elements](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/fl.png)
 
 
 # References:
