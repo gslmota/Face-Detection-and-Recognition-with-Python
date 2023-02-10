@@ -87,6 +87,8 @@ pip install -r requirements.txt
 
 # References:
 * Yale Faces: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)
+* IA Expert Academy: [Detecção e Reconhecimento Facial com Python](https://iaexpert.academy/cursos-online-assinatura/deteccao-reconhecimento-facial-python/)
+* OpenCV: [OpenCV](https://opencv.org/)
+* Dlib: [Dlib](http://dlib.net/)
 
-* IA Expert Academy: [Detecção de Objetos com YOLO, Darknet, OpenCV e Python](https://iaexpert.academy/cursos-online-assinatura/deteccao-de-objetos-com-yolo-darknet-opencv-e-python/)
 
