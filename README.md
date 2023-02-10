@@ -80,10 +80,13 @@ pip install -r requirements.txt
  **Video Celebrity Recognition** using lib face_recognition.
  ![!Video Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/vid.gif))
 
+* **Drawing of facial elements**:
+ **Drawing of facial elements** using lib face_recognition.
+ ![!Drawing of facial elements](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/fl.png))
 
 
 # References:
-* Open Imagens Dataset: [Open Imagens Dataset](https://storage.googleapis.com/openimages/web/index.html)
-* YOLOv4 model: [YOLOv4 Repository](https://github.com/AlexeyAB/darknet)
+* Yale Faces: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)
+
 * IA Expert Academy: [Detecção de Objetos com YOLO, Darknet, OpenCV e Python](https://iaexpert.academy/cursos-online-assinatura/deteccao-de-objetos-com-yolo-darknet-opencv-e-python/)
 
