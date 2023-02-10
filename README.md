@@ -59,30 +59,30 @@ pip install -r requirements.txt
 *Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
 
  
- * **Face Recognition**:
- **Face Recognition** using Dlib and deep learning.
- ![!Face Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/d2.png)
+* **Face Recognition**:
+**Face Recognition** using Dlib and deep learning.
+![!Face Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/d2.png)
 
- *Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
+*Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
 
- * **Celebrity Recognition**:
- **Celebrity Recognition** using lib face_recognition.
- ![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/ae1.png)
+* **Celebrity Recognition**:
+**Celebrity Recognition** using lib face_recognition.
+![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/ae1.png)
 
- ![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/ae2.png)
+![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/ae2.png)
 
- ![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/wol1.png)
+![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/wol1.png)
 
- ![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/wol2.png)
+![!Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/wol2.png)
 
 
- * **Video Celebrity Recognition**:
- **Video Celebrity Recognition** using lib face_recognition.
- ![!Video Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/vid.gif))
+* **Video Celebrity Recognition**:
+**Video Celebrity Recognition** using lib face_recognition.
+![!Video Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/vid.gif))
 
 * **Drawing of facial elements**:
- **Drawing of facial elements** using lib face_recognition.
- ![!Drawing of facial elements](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/fl.png))
+**Drawing of facial elements** using lib face_recognition.
+![!Drawing of facial elements](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/fl.png))
 
 
 # References:
