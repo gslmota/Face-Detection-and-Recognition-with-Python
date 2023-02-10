@@ -52,8 +52,7 @@ pip install -r requirements.txt
 
 # Results
 
- * **Face Detection and Landmarks**:
-
+* **Face Detection and Landmarks**: 
 **Face Detection and Landmarks** using Dlib and deep learning.
 ![!Face Detection and Landmarks](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/d1.png)
 
@@ -78,7 +77,7 @@ pip install -r requirements.txt
 
 
  * **Video Celebrity Recognition**:
-**Video Celebrity Recognition** using lib face_recognition.
+ **Video Celebrity Recognition** using lib face_recognition.
  ![!Video Celebrity Recognition](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/vid.gif))
 
 
